@@ -1,8 +1,5 @@
 #央视频道
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV-1综合
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMS9pbmRleC5tM3U4
-
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV-1综合
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDAvaW5kZXgubTN1OA==
 
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV-2财经
@@ -93,7 +90,8 @@ http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeD
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="地方卫视",黑龙江卫视
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDUvaW5kZXgubTN1OA==
 
-
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="地方卫视",凤凰资讯
+http://zqh2333.top:2222/rtp/239.93.24.4:2191
 
 
 #移动IPV4
@@ -162,337 +160,6 @@ http://112.6.239.227:8207/hls/31/index.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="移动IPV4",广西卫视
 http://112.6.239.227:8207/hls/32/index.m3u8
 
-#新咪咕源二
-#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1综合.png" group-title="新咪咕源二",CCTV1综合
-https://live.chinacert.cftest5.cn/mg/?id=608807420
-#EXTINF:-1 tvg-name="CCTV2财经" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV2财经.png" group-title="新咪咕源二",CCTV2财经
-https://live.chinacert.cftest5.cn/mg/?id=631780532
-#EXTINF:-1 tvg-name="CCTV3综艺" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV3综艺.png" group-title="新咪咕源二",CCTV3综艺
-https://live.chinacert.cftest5.cn/mg/?id=624878271
-#EXTINF:-1 tvg-name="CCTV4中文国际" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4中文国际.png" group-title="新咪咕源二",CCTV4中文国际
-https://live.chinacert.cftest5.cn/mg/?id=631780421
-#EXTINF:-1 tvg-name="CCTV5体育" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5体育.png" group-title="新咪咕源二",CCTV5体育
-https://live.chinacert.cftest5.cn/mg/?id=641886683
-#EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5+体育赛事.png" group-title="新咪咕源二",CCTV5+体育赛事
-https://live.chinacert.cftest5.cn/mg/?id=641886773
-#EXTINF:-1 tvg-name="CCTV6电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV6电影.png" group-title="新咪咕源二",CCTV6电影
-https://live.chinacert.cftest5.cn/mg/?id=624878396
-#EXTINF:-1 tvg-name="CCTV7国防军事" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV7国防军事.png" group-title="新咪咕源二",CCTV7国防军事
-https://live.chinacert.cftest5.cn/mg/?id=673168121
-#EXTINF:-1 tvg-name="CCTV8电视剧" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV8电视剧.png" group-title="新咪咕源二",CCTV8电视剧
-https://live.chinacert.cftest5.cn/mg/?id=624878356
-#EXTINF:-1 tvg-name="CCTV9纪录" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV9纪录.png" group-title="新咪咕源二",CCTV9纪录
-https://live.chinacert.cftest5.cn/mg/?id=673168140
-#EXTINF:-1 tvg-name="CCTV10科教" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV10科教.png" group-title="新咪咕源二",CCTV10科教
-https://live.chinacert.cftest5.cn/mg/?id=624878405
-#EXTINF:-1 tvg-name="CCTV11戏曲" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV11戏曲.png" group-title="新咪咕源二",CCTV11戏曲
-https://live.chinacert.cftest5.cn/mg/?id=667987558
-#EXTINF:-1 tvg-name="CCTV12社会与法" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV12社会与法.png" group-title="新咪咕源二",CCTV12社会与法
-https://live.chinacert.cftest5.cn/mg/?id=673168185
-#EXTINF:-1 tvg-name="CCTV13新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV13新闻.png" group-title="新咪咕源二",CCTV13新闻
-https://live.chinacert.cftest5.cn/mg/?id=608807423
-#EXTINF:-1 tvg-name="CCTV14少儿" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV14少儿.png" group-title="新咪咕源二",CCTV14少儿
-https://live.chinacert.cftest5.cn/mg/?id=624878440
-#EXTINF:-1 tvg-name="CCTV15音乐" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV15音乐.png" group-title="新咪咕源二",CCTV15音乐
-https://live.chinacert.cftest5.cn/mg/?id=673168223
-#EXTINF:-1 tvg-name="CCTV17农业农村" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV17农业农村.png" group-title="新咪咕源二",CCTV17农业农村
-https://live.chinacert.cftest5.cn/mg/?id=673168256
-#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4欧洲.png" group-title="新咪咕源二",CCTV4欧洲
-https://live.chinacert.cftest5.cn/mg/?id=608807419
-#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4美洲.png" group-title="新咪咕源二",CCTV4美洲
-https://live.chinacert.cftest5.cn/mg/?id=608807416
-#EXTINF:-1 tvg-name="CGTN外语纪录" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CGTN外语纪录.png" group-title="新咪咕源二",CGTN外语纪录
-https://live.chinacert.cftest5.cn/mg/?id=609006487
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CGTN阿拉伯语.png" group-title="新咪咕源二",CGTN阿拉伯语
-https://live.chinacert.cftest5.cn/mg/?id=609154345
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CGTN西班牙语.png" group-title="新咪咕源二",CGTN西班牙语
-https://live.chinacert.cftest5.cn/mg/?id=609006450
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CGTN法语.png" group-title="新咪咕源二",CGTN法语
-https://live.chinacert.cftest5.cn/mg/?id=609006476
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CGTN俄语.png" group-title="新咪咕源二",CGTN俄语
-https://live.chinacert.cftest5.cn/mg/?id=609006446
-#EXTINF:-1 tvg-name="老故事" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/老故事.png" group-title="新咪咕源二",老故事
-https://live.chinacert.cftest5.cn/mg/?id=884121956
-#EXTINF:-1 tvg-name="中学生" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/中学生.png" group-title="新咪咕源二",中学生
-https://live.chinacert.cftest5.cn/mg/?id=708869532
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方卫视.png" group-title="新咪咕源二",东方卫视
-https://live.chinacert.cftest5.cn/mg/?id=651632648
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏卫视.png" group-title="新咪咕源二",江苏卫视
-https://live.chinacert.cftest5.cn/mg/?id=623899368
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广东卫视.png" group-title="新咪咕源二",广东卫视
-https://live.chinacert.cftest5.cn/mg/?id=608831231
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江西卫视.png" group-title="新咪咕源二",江西卫视
-https://live.chinacert.cftest5.cn/mg/?id=783847495
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/河南卫视.png" group-title="新咪咕源二",河南卫视
-https://live.chinacert.cftest5.cn/mg/?id=790187291
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/陕西卫视.png" group-title="新咪咕源二",陕西卫视
-https://live.chinacert.cftest5.cn/mg/?id=738910838
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/大湾区卫视.png" group-title="新咪咕源二",大湾区卫视
-https://live.chinacert.cftest5.cn/mg/?id=608917627
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/湖北卫视.png" group-title="新咪咕源二",湖北卫视
-https://live.chinacert.cftest5.cn/mg/?id=947472496
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/吉林卫视.png" group-title="新咪咕源二",吉林卫视
-https://live.chinacert.cftest5.cn/mg/?id=947472500
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/青海卫视.png" group-title="新咪咕源二",青海卫视
-https://live.chinacert.cftest5.cn/mg/?id=947472506
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东南卫视.png" group-title="新咪咕源二",东南卫视
-https://live.chinacert.cftest5.cn/mg/?id=849116810
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/海南卫视.png" group-title="新咪咕源二",海南卫视
-https://live.chinacert.cftest5.cn/mg/?id=947472502
-#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/海峡卫视.png" group-title="新咪咕源二",海峡卫视
-https://live.chinacert.cftest5.cn/mg/?id=849119120
-#EXTINF:-1 tvg-name="中国农林卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/中国农林卫视.png" group-title="新咪咕源二",中国农林卫视
-https://live.chinacert.cftest5.cn/mg/?id=956904896
-#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/兵团卫视.png" group-title="新咪咕源二",兵团卫视
-https://live.chinacert.cftest5.cn/mg/?id=956923145
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/辽宁卫视.png" group-title="新咪咕源二",辽宁卫视
-https://live.chinacert.cftest5.cn/mg/?id=630291707
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/上海新闻综合.png" group-title="新咪咕源二",上海新闻综合
-https://live.chinacert.cftest5.cn/mg/?id=651632657
-#EXTINF:-1 tvg-name="上视东方影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/上视东方影视.png" group-title="新咪咕源二",上视东方影视
-https://live.chinacert.cftest5.cn/mg/?id=617290047
-#EXTINF:-1 tvg-name="南京新闻综合频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/南京新闻综合频道.png" group-title="新咪咕源二",南京新闻综合频道
-https://live.chinacert.cftest5.cn/mg/?id=838109047
-#EXTINF:-1 tvg-name="南京教科频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/南京教科频道.png" group-title="新咪咕源二",南京教科频道
-https://live.chinacert.cftest5.cn/mg/?id=838153729
-#EXTINF:-1 tvg-name="南京十八频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/南京十八频道.png" group-title="新咪咕源二",南京十八频道
-https://live.chinacert.cftest5.cn/mg/?id=838151753
-#EXTINF:-1 tvg-name="体育休闲频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/体育休闲频道.png" group-title="新咪咕源二",体育休闲频道
-https://live.chinacert.cftest5.cn/mg/?id=626064707
-#EXTINF:-1 tvg-name="江苏城市频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏城市频道.png" group-title="新咪咕源二",江苏城市频道
-https://live.chinacert.cftest5.cn/mg/?id=626064714
-#EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏国际.png" group-title="新咪咕源二",江苏国际
-https://live.chinacert.cftest5.cn/mg/?id=626064674
-#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏教育.png" group-title="新咪咕源二",江苏教育
-https://live.chinacert.cftest5.cn/mg/?id=628008321
-#EXTINF:-1 tvg-name="江苏影视频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏影视频道.png" group-title="新咪咕源二",江苏影视频道
-https://live.chinacert.cftest5.cn/mg/?id=626064697
-#EXTINF:-1 tvg-name="江苏综艺频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏综艺频道.png" group-title="新咪咕源二",江苏综艺频道
-https://live.chinacert.cftest5.cn/mg/?id=626065193
-#EXTINF:-1 tvg-name="公共新闻频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/公共新闻频道.png" group-title="新咪咕源二",公共新闻频道
-https://live.chinacert.cftest5.cn/mg/?id=626064693
-#EXTINF:-1 tvg-name="盐城新闻综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/盐城新闻综合.png" group-title="新咪咕源二",盐城新闻综合
-https://live.chinacert.cftest5.cn/mg/?id=639731825
-#EXTINF:-1 tvg-name="淮安新闻综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/淮安新闻综合.png" group-title="新咪咕源二",淮安新闻综合
-https://live.chinacert.cftest5.cn/mg/?id=639731826
-#EXTINF:-1 tvg-name="泰州新闻综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/泰州新闻综合.png" group-title="新咪咕源二",泰州新闻综合
-https://live.chinacert.cftest5.cn/mg/?id=639731818
-#EXTINF:-1 tvg-name="连云港新闻综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/连云港新闻综合.png" group-title="新咪咕源二",连云港新闻综合
-https://live.chinacert.cftest5.cn/mg/?id=639731715
-#EXTINF:-1 tvg-name="宿迁新闻综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/宿迁新闻综合.png" group-title="新咪咕源二",宿迁新闻综合
-https://live.chinacert.cftest5.cn/mg/?id=639731832
-#EXTINF:-1 tvg-name="徐州新闻综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/徐州新闻综合.png" group-title="新咪咕源二",徐州新闻综合
-https://live.chinacert.cftest5.cn/mg/?id=639731747
-#EXTINF:-1 tvg-name="优漫卡通频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/优漫卡通频道.png" group-title="新咪咕源二",优漫卡通频道
-https://live.chinacert.cftest5.cn/mg/?id=626064703
-#EXTINF:-1 tvg-name="江阴新闻综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江阴新闻综合.png" group-title="新咪咕源二",江阴新闻综合
-https://live.chinacert.cftest5.cn/mg/?id=955227979
-#EXTINF:-1 tvg-name="南通新闻综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/南通新闻综合.png" group-title="新咪咕源二",南通新闻综合
-https://live.chinacert.cftest5.cn/mg/?id=955227985
-#EXTINF:-1 tvg-name="宜兴新闻综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/宜兴新闻综合.png" group-title="新咪咕源二",宜兴新闻综合
-https://live.chinacert.cftest5.cn/mg/?id=955227996
-#EXTINF:-1 tvg-name="溧水新闻综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/溧水新闻综合.png" group-title="新咪咕源二",溧水新闻综合
-https://live.chinacert.cftest5.cn/mg/?id=639737327
-#EXTINF:-1 tvg-name="陕西银龄频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/陕西银龄频道.png" group-title="新咪咕源二",陕西银龄频道
-https://live.chinacert.cftest5.cn/mg/?id=956909362
-#EXTINF:-1 tvg-name="陕西都市青春频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/陕西都市青春频道.png" group-title="新咪咕源二",陕西都市青春频道
-https://live.chinacert.cftest5.cn/mg/?id=956909358
-#EXTINF:-1 tvg-name="陕西体育休闲频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/陕西体育休闲频道.png" group-title="新咪咕源二",陕西体育休闲频道
-https://live.chinacert.cftest5.cn/mg/?id=956909356
-#EXTINF:-1 tvg-name="陕西秦腔频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/陕西秦腔频道.png" group-title="新咪咕源二",陕西秦腔频道
-https://live.chinacert.cftest5.cn/mg/?id=956909303
-#EXTINF:-1 tvg-name="陕西新闻资讯频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/陕西新闻资讯频道.png" group-title="新咪咕源二",陕西新闻资讯频道
-https://live.chinacert.cftest5.cn/mg/?id=956909289
-#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/财富天下.png" group-title="新咪咕源二",财富天下
-https://live.chinacert.cftest5.cn/mg/?id=956923159
-#EXTINF:-1 tvg-name="经典香港电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/经典香港电影.png" group-title="新咪咕源二",经典香港电影
-https://live.chinacert.cftest5.cn/mg/?id=625703337
-#EXTINF:-1 tvg-name="抗战经典影片" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/抗战经典影片.png" group-title="新咪咕源二",抗战经典影片
-https://live.chinacert.cftest5.cn/mg/?id=617432318
-#EXTINF:-1 tvg-name="新片放映厅" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/新片放映厅.png" group-title="新咪咕源二",新片放映厅
-https://live.chinacert.cftest5.cn/mg/?id=619495952
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CHC影迷电影.png" group-title="新咪咕源二",CHC影迷电影
-https://live.chinacert.cftest5.cn/mg/?id=952383261
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CHC动作电影.png" group-title="新咪咕源二",CHC动作电影
-https://live.chinacert.cftest5.cn/mg/?id=644368714
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CHC家庭影院.png" group-title="新咪咕源二",CHC家庭影院
-https://live.chinacert.cftest5.cn/mg/?id=644368373
-#EXTINF:-1 tvg-name="和美乡途轮播台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/和美乡途轮播台.png" group-title="新咪咕源二",和美乡途轮播台
-https://live.chinacert.cftest5.cn/mg/?id=713591450
-#EXTINF:-1 tvg-name="南方影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/南方影视.png" group-title="新咪咕源二",南方影视
-https://live.chinacert.cftest5.cn/mg/?id=614961829
-
-#移动IPTV
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="移动IPTV",CCTV-1
-https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="移动IPTV",CCTV-1
-#https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="移动IPTV",CCTV-1
-#https://zby.130519.xyz/PLTV/11/224/3221225770/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="移动IPTV",CCTV-1
-#https://zby.130519.xyz/PLTV/11/224/3221226163/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV2.png" group-title="移动IPTV",CCTV-2
-https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV3.png" group-title="移动IPTV",CCTV-3
-https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV3.png" group-title="移动IPTV",CCTV-3
-#https://zby.130519.xyz/PLTV/11/224/3221226165/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4.png" group-title="移动IPTV",CCTV-4
-https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="移动IPTV",CCTV-5
-https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="移动IPTV",CCTV-5
-#https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV6.png" group-title="移动IPTV",CCTV-6
-https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV6.png" group-title="移动IPTV",CCTV-6
-#https://zby.130519.xyz/PLTV/11/224/3221226148/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV7.png" group-title="移动IPTV",CCTV-7
-https://zby.130519.xyz/PLTV/11/224/3221225701/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV7.png" group-title="移动IPTV",CCTV-7
-#https://zby.130519.xyz/PLTV/11/224/3221226143/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV7.png" group-title="移动IPTV",CCTV-7
-#https://zby.130519.xyz/PLTV/11/224/3221226137/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV8.png" group-title="移动IPTV",CCTV-8
-https://zby.130519.xyz/PLTV/11/224/3221225736/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV8.png" group-title="移动IPTV",CCTV-8
-#https://zby.130519.xyz/PLTV/11/224/3221226167/index.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV10.png" group-title="移动IPTV",CCTV-10
-https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV10.png" group-title="移动IPTV",CCTV-10
-#https://zby.130519.xyz/PLTV/11/224/3221226169/index.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV11.png" group-title="移动IPTV",CCTV-11
-https://zby.130519.xyz/PLTV/11/224/3221226101/index.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV11.png" group-title="移动IPTV",CCTV-11
-#https://zby.130519.xyz/PLTV/11/224/3221226145/index.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV12.png" group-title="移动IPTV",CCTV-12
-https://zby.130519.xyz/PLTV/11/224/3221226103/index.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV12.png" group-title="移动IPTV",CCTV-12
-#https://zby.130519.xyz/PLTV/11/224/3221226126/index.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV13.png" group-title="移动IPTV",CCTV-13
-https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV14.png" group-title="移动IPTV",CCTV-14
-https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV14.png" group-title="移动IPTV",CCTV-14
-#https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV15.png" group-title="移动IPTV",CCTV-15
-https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV16.png" group-title="移动IPTV",CCTV-16
-https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
-
-#EXTINF:-1 tvg-name="CETV01" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CETV1.png" group-title="移动IPTV",CETV-01
-https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8
-#EXTINF:-1 tvg-name="CETV04" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CETV4.png" group-title="移动IPTV",CETV-04
-https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/北京卫视.png" group-title="移动IPTV",北京卫视
-https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方卫视.png" group-title="移动IPTV",东方卫视
-https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方卫视.png" group-title="移动IPTV",东方卫视
-#https://zby.130519.xyz/PLTV/11/224/3221226106/index.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/浙江卫视.png" group-title="移动IPTV",浙江卫视
-https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏卫视.png" group-title="移动IPTV",江苏卫视
-https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/湖南卫视.png" group-title="移动IPTV",湖南卫视
-https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广东卫视.png" group-title="移动IPTV",广东卫视
-https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/深圳卫视.png" group-title="移动IPTV",深圳卫视
-https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/天津卫视.png" group-title="移动IPTV",天津卫视
-https://zby.130519.xyz/PLTV/11/224/3221225742/index.m3u8
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/安徽卫视.png" group-title="移动IPTV",安徽卫视
-https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/山东卫视.png" group-title="移动IPTV",山东卫视
-https://zby.130519.xyz/PLTV/11/224/3221225733/index.m3u8
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/山西卫视.png" group-title="移动IPTV",山西卫视
-https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/辽宁卫视.png" group-title="移动IPTV",辽宁卫视
-https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/河北卫视.png" group-title="移动IPTV",河北卫视
-https://zby.130519.xyz/PLTV/11/224/3221226107/index.m3u8
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/河南卫视.png" group-title="移动IPTV",河南卫视
-https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江西卫视.png" group-title="移动IPTV",江西卫视
-https://zby.130519.xyz/PLTV/11/224/3221225740/index.m3u8
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/四川卫视.png" group-title="移动IPTV",四川卫视
-https://zby.130519.xyz/PLTV/11/224/3221226152/index.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/重庆卫视.png" group-title="移动IPTV",重庆卫视
-https://zby.130519.xyz/PLTV/11/224/3221226171/index.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/贵州卫视.png" group-title="移动IPTV",贵州卫视
-https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/湖北卫视.png" group-title="移动IPTV",湖北卫视
-https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广西卫视.png" group-title="移动IPTV",广西卫视
-https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广西卫视.png" group-title="移动IPTV",广西卫视
-#https://zby.130519.xyz/PLTV/11/224/3221226130/index.m3u8
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/云南卫视.png" group-title="移动IPTV",云南卫视
-https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/云南卫视.png" group-title="移动IPTV",云南卫视
-#https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东南卫视.png" group-title="移动IPTV",东南卫视
-https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/海南卫视.png" group-title="移动IPTV",海南卫视
-https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/甘肃卫视.png" group-title="移动IPTV",甘肃卫视
-https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/青海卫视.png" group-title="移动IPTV",青海卫视
-https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/吉林卫视.png" group-title="移动IPTV",吉林卫视
-https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/吉林卫视.png" group-title="移动IPTV",吉林卫视
-#https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/黑龙江视.png" group-title="移动IPTV",黑龙江视
-https://zby.130519.xyz/PLTV/11/224/3221225722/index.m3u8
-#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方影视.png" group-title="移动IPTV",东方影视
-https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
-#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方财经.png" group-title="移动IPTV",东方财经
-https://zby.130519.xyz/PLTV/11/224/3221226134/index.m3u8
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/第一财经.png" group-title="移动IPTV",第一财经
-https://zby.130519.xyz/PLTV/11/224/3221225737/index.m3u8
-#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/上海都市.png" group-title="移动IPTV",上海都市
-https://zby.130519.xyz/PLTV/11/224/3221225749/index.m3u8
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/五星体育.png" group-title="移动IPTV",五星体育
-https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/都市剧场.png" group-title="移动IPTV",都市剧场
-https://zby.130519.xyz/PLTV/11/224/3221225762/index.m3u8
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/都市剧场.png" group-title="移动IPTV",都市剧场
-#https://zby.130519.xyz/PLTV/11/224/3221226155/index.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/欢笑剧场.png" group-title="移动IPTV",欢笑剧场
-https://zby.130519.xyz/PLTV/11/224/3221225771/index.m3u8
-#EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/新闻综合.png" group-title="移动IPTV",新闻综合
-https://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8
-#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/金色学堂.png" group-title="移动IPTV",金色学堂
-https://zby.130519.xyz/PLTV/11/224/3221225748/index.m3u8
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/生活时尚.png" group-title="移动IPTV",生活时尚
-https://zby.130519.xyz/PLTV/11/224/3221225768/index.m3u8
-#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/法治天地.png" group-title="移动IPTV",法治天地
-https://zby.130519.xyz/PLTV/11/224/3221225994/index.m3u8
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/游戏风云.png" group-title="移动IPTV",游戏风云
-https://zby.130519.xyz/PLTV/11/224/3221226117/index.m3u8
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/游戏风云.png" group-title="移动IPTV",游戏风云
-#https://zby.130519.xyz/PLTV/11/224/3221226140/index.m3u8
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/乐游频道.png" group-title="移动IPTV",乐游频道
-https://zby.130519.xyz/PLTV/11/224/3221226157/index.m3u8
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/乐游频道.png" group-title="移动IPTV",乐游频道
-#https://zby.130519.xyz/PLTV/11/224/3221226115/index.m3u8
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/哈哈炫动.png" group-title="移动IPTV",哈哈炫动
-https://zby.130519.xyz/PLTV/11/224/3221226161/index.m3u8
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/哈哈炫动.png" group-title="移动IPTV",哈哈炫动
-#https://zby.130519.xyz/PLTV/11/224/3221226175/index.m3u8
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/动漫秀场.png" group-title="移动IPTV",动漫秀场
-https://zby.130519.xyz/PLTV/11/224/3221225764/index.m3u8
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/动漫秀场.png" group-title="移动IPTV",动漫秀场
-#https://zby.130519.xyz/PLTV/11/224/3221226138/index.m3u8
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/卡酷少儿.png" group-title="移动IPTV",卡酷少儿
-https://zby.130519.xyz/PLTV/11/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/金鹰卡通.png" group-title="移动IPTV",金鹰卡通
-https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8
-
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
-http://zqh2333.top:2222/rtp/239.93.24.4:2191
 
 #港澳台频道
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="港澳台频道",凤凰中文高清
@@ -790,6 +457,12 @@ https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/13339666728414330883
 #EXTM3U x-tvg-url=https://live.fanmingming.com/e.xml
 #EXTINF:-1 tvg-name=浙江卫视 tvg-logo=https://live.fanmingming.com/tv/浙江卫视.png group-title=综合,浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title=综合,东方卫视
+http://222.85.198.92:8000/hls/38/index.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title=综合,海南卫视
+http://222.85.198.92:8000/hls/42/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title=综合,河北卫视
+http://222.85.198.92:8000/hls/41/index.m3u8
 #EXTINF:-1 tvg-name=浙江新闻 tvg-logo=https://live.fanmingming.com/tv/浙江新闻.png group-title=小地方,浙江新闻
 http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-name=浙江少儿 tvg-logo=https://live.fanmingming.com/tv/浙江少儿.png group-title=小地方,浙江少儿
@@ -836,6 +509,7 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name=兰溪新闻综合 tvg-logo=https://live.fanmingming.com/tv/兰溪新闻综合.png group-title=小地方,兰溪新闻综合
 http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
+
 
 
 
