@@ -308,9 +308,11 @@ http://112.6.239.227:8207/hls/32/index.m3u8
 
 #电信IPV4
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="电信IPV4",CCTV-1综合
-https://stream1.freetv.fun/b8dcdc7ba56cbf09277896dfa81c05756e3da4cc48c5b0ad6ea090ab987fb77a.m3u8
 https://stream1.freetv.fun/c1980814348616ed0068602a3398b361096544f6d026830ceb16352b979defda.ctv
-https://stream1.freetv.fun/9b729e6c878984d044d0552a24528d74fe7ef50bf62542ff952688d80f70e770.ctv
+https://stream1.freetv.fun/2dfba1a07e4c4192c08973501820703a9e35a7090e951599c72f2fe38c263749.m3u8
+https://stream1.freetv.fun/a4f6e6163319cb6ad59892a54343f514a9ff20917af903f2ee1818e005f43202.m3u8
+https://stream1.freetv.fun/b8dcdc7ba56cbf09277896dfa81c05756e3da4cc48c5b0ad6ea090ab987fb77a.m3u8
+
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="电信IPV4",CCTV-2财经
 https://stream1.freetv.fun/b1d99c3175c868404250df737d3580cd4decc4f23a9e1253a982e4bfa23633d1.m3u8
 https://stream1.freetv.fun/d47a058722918120439241bba462956ecc90b5763c872f397f5b79a1b90f43e8.m3u8
@@ -726,6 +728,7 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name=兰溪新闻综合 tvg-logo=https://live.fanmingming.com/tv/兰溪新闻综合.png group-title=小地方,兰溪新闻综合
 http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
+
 
 
 
