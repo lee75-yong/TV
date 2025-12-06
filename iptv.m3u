@@ -311,9 +311,30 @@ http://112.6.239.227:8207/hls/32/index.m3u8
 https://stream1.freetv.fun/b8dcdc7ba56cbf09277896dfa81c05756e3da4cc48c5b0ad6ea090ab987fb77a.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="联通IPTV",CCTV-2财经
 https://stream1.freetv.fun/b1d99c3175c868404250df737d3580cd4decc4f23a9e1253a982e4bfa23633d1.m3u8
+
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="联通IPTV",CCTV-3综艺
 https://stream1.freetv.fun/a6e12dd90701d1c314c2bebc5468d6e12da1ff525933c032e62434b548f2dbb3.m3u8
 
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV-4中文国际
+https://stream1.freetv.fun/467b4236c183681b3df3456ddf53129b3e0f3b6ff9be19f7419a7acf8687e02f.m3u8
+
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="联通IPTV",CCTV-5体育
+https://stream1.freetv.fun/37e56f6b32da39961e36529bc8db27a4bc60046d4fbf9ba14696adbeeb0aec13.m3u8
+
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="联通IPTV",CCTV-6电影
+https://stream1.freetv.fun/d47a058722918120439241bba462956ecc90b5763c872f397f5b79a1b90f43e8.m3u8
+
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="联通IPTV",CCTV-7国防军事
+https://stream1.freetv.fun/45411ba77e6621c280243da9e11b3a7ed31e5a0131b5a8d2b40cba74ee7272bd.m3u8
+
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="联通IPTV",CCTV-8电视剧
+https://stream1.freetv.fun/c63e00b6f6e11db0e25eba94d5c4c63b4af30261838b8c91652553fb0f8e7b8a.ctv
+
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="联通IPTV",CCTV-9记录
+https://stream1.freetv.fun/0ff1a5df634b89d961ceb79e32ec6f09791aeca7014e15f5f8c6b8a92f5af3f1.m3u8
+
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="联通IPTV",CCTV-10科教
+https://stream1.freetv.fun/f86540c126a751cc707e3805911549bd077fb5a7f0f53a824212d75addea3747.m3u8
 
 #港澳台频道
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="港澳台频道",凤凰中文高清
@@ -698,6 +719,7 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name=兰溪新闻综合 tvg-logo=https://live.fanmingming.com/tv/兰溪新闻综合.png group-title=小地方,兰溪新闻综合
 http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
+
 
 
 
