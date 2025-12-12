@@ -1,19 +1,15 @@
 #IPTV
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="IPTV",CCTV-1综合
-https://stream1.freetv.fun/cctv1-15.ctv
-https://stream1.freetv.fun/cctv1-53.ctv
-https://stream1.freetv.fun/cctv-1-14.ctv
-https://stream1.freetv.fun/cctv1-11.ctv
 https://stream1.freetv.fun/cctv1zong-he-2.ctv
 https://stream1.freetv.fun/cctv1zong-he-5.ctv
-https://stream1.freetv.fun/c1980814348616ed0068602a3398b361096544f6d026830ceb16352b979defda.ctv
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDAvaW5kZXgubTN1OA==
-http://222.85.198.92:8000/hls/1/index.m3u8
 http://222.85.198.92:8000/hls/40/index.m3u8
-http://112.6.239.227:8207/hls/1/index.m3u8
+http://222.85.198.92:8000/hls/1/index.m3u8
 https://stream1.freetv.fun/cctv1-42.m3u8
 https://stream1.freetv.fun/cctv1-28.m3u8
-https://stream1.freetv.fun/2dfba1a07e4c4192c08973501820703a9e35a7090e951599c72f2fe38c263749.m3u8
-https://stream1.freetv.fun/a4f6e6163319cb6ad59892a54343f514a9ff20917af903f2ee1818e005f43202.m3u8
 https://stream1.freetv.fun/b8dcdc7ba56cbf09277896dfa81c05756e3da4cc48c5b0ad6ea090ab987fb77a.m3u8
 https://stream1.freetv.fun/cctv-1gao-qing-1.m3u8
+'https://stream1.freetv.fun/2dfba1a07e4c4192c08973501820703a9e35a7090e951599c72f2fe38c263749.m3u8
+'https://stream1.freetv.fun/a4f6e6163319cb6ad59892a54343f514a9ff20917af903f2ee1818e005f43202.m3u8
+'https://stream1.freetv.fun/c1980814348616ed0068602a3398b361096544f6d026830ceb16352b979defda.ctv
+'http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDAvaW5kZXgubTN1OA==
+'http://112.6.239.227:8207/hls/1/index.m3u8
