@@ -54,8 +54,9 @@ http://112.6.239.227:8207/hls/5/index.m3u8
 
 
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="IPTV",CCTV-5体育赛事
-https://stream1.freetv.fun/cctv5-plus-32.ctv
-https://stream1.freetv.fun/cctv5-plus--sm-1.ctv
+https://stream1.freetv.fun/cctv5-plus-29.ctv
+https://stream1.freetv.fun/cctv5-plus-48.ctv
+https://stream1.freetv.fun/cctv5-plus-61.ctv
 
 
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="IPTV",CCTV-6电影
@@ -690,6 +691,7 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 #EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2025
 https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
+
 
 
 
