@@ -108,17 +108,16 @@ http://112.6.239.227:8207/hls/10/index.m3u8
 
 
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="IPTV",CCTV-10科教
-https://stream1.freetv.fun/cctv10-30.ctv
 http://115.153.254.81/PLTV/88888888/224/3221226630/51813372.smil/index.m3u8?fmt=ts2hls
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvOS9pbmRleC5tM3U4
 http://222.85.198.92:8000/hls/9/index.m3u8
-https://stream1.freetv.fun/cctv-10ke-jiao-2.m3u8
+http://223.241.247.214:9901/tsfile/live/0010_1.m3u8
+http://223.241.247.214:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+http://59.39.89.130:60901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 https://stream1.freetv.fun/cctv10-43.m3u8
-https://stream1.freetv.fun/cctv10-54.ctv
 https://stream1.freetv.fun/cctv10-16.ctv
-https://stream1.freetv.fun/cctv10-11.ctv
-https://stream1.freetv.fun/cctv-10gao-qing-1.m3u8
-http://112.6.239.227:8207/hls/11/index.m3u8
+http://124.116.183.146:9901/tsfile/live/0010_1.m3u8
+
 
 
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="IPTV",CCTV-11戏曲
@@ -126,16 +125,12 @@ https://stream1.freetv.fun/cctv11-58.m3u8
 http://115.153.254.81/PLTV/88888888/224/3221226986/85722616.smil/index.m3u8?fmt=ts2hls
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTAvaW5kZXgubTN1OA==
 http://222.85.198.92:8000/hls/10/index.m3u8
-https://stream1.freetv.fun/cctv11-xi-qu-14.m3u8
 https://stream1.freetv.fun/cctv11-xi-qu-10.ctv
-https://stream1.freetv.fun/cctv11-xi-qu-6.ctv
-https://stream1.freetv.fun/cctv-11xi-qu-7.m3u8
-https://stream1.freetv.fun/cctv11-40.ctv
-https://stream1.freetv.fun/cctv11-62.ctv
 https://stream1.freetv.fun/cctv11-39.ctv
 https://stream1.freetv.fun/cctv11-58.m3u8
-https://stream1.freetv.fun/cctv11-48.m3u8
-http://112.6.239.227:8207/hls/12/index.m3u8
+http://223.241.247.214:9901/tsfile/live/0011_1.m3u8
+http://223.241.247.214:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="IPTV",CCTV-12社会与法
@@ -805,6 +800,7 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 #EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2025
 https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
+
 
 
 
