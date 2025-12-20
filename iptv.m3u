@@ -5,6 +5,7 @@ http://222.85.198.92:8000/hls/1/index.m3u8
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDAvaW5kZXgubTN1OA==
 https://stream1.freetv.fun/cctv1-28.m3u8
 https://stream1.freetv.fun/cctv1-79.ctv
+http://183.11.239.36:808/hls/19/index.m3u8
 http://115.153.254.81/PLTV/88888888/224/3221225699/iptv8040.smil/index.m3u8?fmt=ts2hls
 http://115.153.254.81/PLTV/88888888/224/3221225517/iptv7949.smil/index.m3u8?fmt=ts2hls
 
@@ -19,6 +20,7 @@ http://222.85.198.92:8000/hls/2/index.m3u8
 https://stream1.freetv.fun/cctv2-44.m3u8
 http://115.153.254.81/PLTV/88888888/224/3221226825/59814584.smil/index.m3u8?fmt=ts2hls
 http://222.169.85.8:9901/tsfile/live/0002_1.m3u8
+http://183.11.239.36:808/hls/20/index.m3u8
 
 
 
@@ -181,15 +183,24 @@ http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeD
 
 
 #地方卫视
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="地方卫视",江苏卫视
-https://stream1.freetv.fun/jiang-su-wei-shi-gao-qing-10.m3u8
-https://stream1.freetv.fun/jiang-su-wei-shi-56.ctv
-https://stream1.freetv.fun/jiang-su-wei-shi-92.ctv
-https://stream1.freetv.fun/jiang-su-wei-shi-15.ctv
-http://115.153.254.81/PLTV/88888888/224/3221225766/10000100000000060000000000913517_0.smil/index.m3u8?fmt=ts2hls
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTkvaW5kZXgubTN1OA==
-http://222.85.198.92:8000/hls/19/index.m3u8
-https://stream1.freetv.fun/jiang-su-wei-shi-86.ctv
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="地方卫视",安徽卫视
+https://stream1.freetv.fun/jiang-xi-wei-shi-69.m3u8
+http://115.153.254.81/PLTV/88888888/224/3221226622/51176344.smil/index.m3u8?fmt=ts2hls
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMjAvaW5kZXgubTN1OA==
+http://222.85.198.92:8000/hls/20/index.m3u8
+http://112.6.239.227:8207/hls/19/index.m3u8
+
+
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="地方卫视",北京卫视
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMjkvaW5kZXgubTN1OA==
+http://222.85.198.92:8000/hls/29/index.m3u8
+http://115.153.254.81/PLTV/88888888/224/3221225546/iptv51912.smil/index.m3u8?fmt=ts2hls
+
+
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="地方卫视",重庆卫视
+http://115.153.254.81/PLTV/88888888/224/3221226638/51813388.smil/index.m3u8?fmt=ts2hls
+http://183.11.239.36:808/hls/53/index.m3u8
+https://www.yangshipin.cn/tv/home?pid=600002531
 
 
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="地方卫视",东方卫视
@@ -206,6 +217,220 @@ https://stream1.freetv.fun/dong-fang-wei-shi-gao-qing-3.m3u8
 http://115.153.254.81/PLTV/88888888/224/3221225770/10000100000000060000000000913526_0.smil/index.m3u8?fmt=ts2hls
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMzgvaW5kZXgubTN1OA==
 http://222.85.198.92:8000/hls/38/index.m3u8
+
+
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="地方卫视",东南卫视
+https://stream1.freetv.fun/dong-nan-wei-shi-60.ctv
+https://stream1.freetv.fun/dong-nan-wei-shi-30.ctv
+https://stream1.freetv.fun/dong-nan-wei-shi-79.m3u8
+https://stream1.freetv.fun/dong-nan-wei-shi-63.ctv
+https://stream1.freetv.fun/dong-nan-wei-shi-14.ctv
+http://115.153.254.81/PLTV/88888888/224/3221226677/51176347.smil/index.m3u8?fmt=ts2hls
+http://112.6.239.227:8207/hls/23/index.m3u8
+
+
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="地方卫视",广东卫视
+http://115.153.254.81/PLTV/88888888/224/3221225957/10000100000000060000000000913519_0.smil/index.m3u8?fmt=ts2hls
+https://stream1.freetv.fun/yan-dong-wei-shi-87.m3u8
+https://stream1.freetv.fun/yan-dong-wei-shi-51.m3u8
+https://stream1.freetv.fun/yan-dong-wei-shi-83.ctv
+https://stream1.freetv.fun/yan-dong-wei-shi-50.ctv
+https://stream1.freetv.fun/yan-dong-wei-shi-18.ctv
+https://stream1.freetv.fun/dong-nan-wei-shi-38.m3u8
+https://stream1.freetv.fun/yan-dong-wei-shi-gao-qing-3.m3u8
+http://112.6.239.227:8207/hls/22/index.m3u8
+
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="地方卫视",广西卫视
+http://115.153.254.81/PLTV/88888888/224/3221226954/71778425.smil/index.m3u8?fmt=ts2hls
+https://stream1.freetv.fun/yan-xi-wei-shi-3.ctv
+https://stream1.freetv.fun/yan-xi-wei-shi-79.ctv
+https://stream1.freetv.fun/yan-xi-wei-shi-23.ctv
+https://stream1.freetv.fun/yan-xi-wei-shi-59.m3u8
+http://112.6.239.227:8207/hls/32/index.m3u8
+
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="地方卫视",甘肃卫视
+rtmp://livein.gstv.com.cn/49048r/y3nga4.flv
+http://115.153.254.81/PLTV/88888888/224/3221227039/87447727.smil/index.m3u8?fmt=ts2hls
+http://183.11.239.36:808/hls/119/index.m3u8
+http://139.196.214.238/rtp/239.45.1.234:5140
+http://120.238.94.10:9901/tsfile/live/1079_1.m3u8
+
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="地方卫视",贵州卫视
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTYvaW5kZXgubTN1OA==
+http://222.85.198.92:8000/hls/16/index.m3u8
+http://115.153.254.81/PLTV/88888888/224/3221226833/59814738.smil/index.m3u8?fmt=ts2hls
+
+
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="地方卫视",河南卫视
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMjcvaW5kZXgubTN1OA==
+http://222.85.198.92:8000/hls/27/index.m3u8
+http://115.153.254.81/PLTV/88888888/224/3221226842/59814787.smil/index.m3u8?fmt=ts2hls
+https://stream1.freetv.fun/yan-xi-wei-shi-64.m3u8
+
+
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="地方卫视",河北卫视
+https://stream1.freetv.fun/he-bei-wei-shi-48.ctv
+http://115.153.254.81/PLTV/88888888/224/3221226821/59781859.smil/index.m3u8?fmt=ts2hls
+http://222.85.198.92:8000/hls/41/index.m3u8
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDEvaW5kZXgubTN1OA==
+https://stream1.freetv.fun/he-bei-wei-shi-75.ctv
+https://stream1.freetv.fun/he-bei-wei-shi-38.m3u8
+https://stream1.freetv.fun/he-bei-wei-shi-89.ctv
+http://112.6.239.227:8207/hls/28/index.m3u8
+
+
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="地方卫视",湖南卫视
+https://stream1.freetv.fun/hu-nan-wei-shi-gao-qing-1.m3u8
+http://115.153.254.81/PLTV/88888888/224/3221225697/iptv8039.smil/index.m3u8?fmt=ts2hls
+https://stream1.freetv.fun/hu-nan-wei-shi-14.ctv
+https://stream1.freetv.fun/hu-nan-wei-shi-6.ctv
+https://stream1.freetv.fun/hu-nan-wei-shi-75.m3u8
+https://stream1.freetv.fun/hu-nan-wei-shi-80.ctv
+https://stream1.freetv.fun/hu-nan-wei-shi-49.m3u8
+https://stream1.freetv.fun/hu-nan-wei-shi-87.m3u8
+https://stream1.freetv.fun/hu-nan-wei-shi-54.ctv
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTcvaW5kZXgubTN1OA==
+http://222.85.198.92:8000/hls/17/index.m3u8
+
+
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="地方卫视",湖北卫视
+https://stream1.freetv.fun/he-bei-wei-shi-83.ctv
+http://115.153.254.81/PLTV/88888888/224/3221225827/10000100000000060000000000470332_2.smil/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="地方卫视",海南卫视
+http://222.85.198.92:8000/hls/42/index.m3u8
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDIvaW5kZXgubTN1OA==
+http://115.153.254.81/PLTV/88888888/224/3221226933/70442779.smil/index.m3u8?fmt=ts2hls
+http://112.6.239.227:8207/hls/24/index.m3u8
+
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="地方卫视",黑龙江卫视
+https://stream1.freetv.fun/he-bei-wei-shi-87.m3u8
+http://115.153.254.81/PLTV/88888888/224/3221225584/10000100000000060000000000031778_0.smil/index.m3u8?fmt=ts2hls
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDUvaW5kZXgubTN1OA==
+http://222.85.198.92:8000/hls/45/index.m3u8
+
+
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="地方卫视",江苏卫视
+https://stream1.freetv.fun/jiang-su-wei-shi-gao-qing-10.m3u8
+https://stream1.freetv.fun/jiang-su-wei-shi-56.ctv
+https://stream1.freetv.fun/jiang-su-wei-shi-92.ctv
+https://stream1.freetv.fun/jiang-su-wei-shi-15.ctv
+http://115.153.254.81/PLTV/88888888/224/3221225766/10000100000000060000000000913517_0.smil/index.m3u8?fmt=ts2hls
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTkvaW5kZXgubTN1OA==
+http://222.85.198.92:8000/hls/19/index.m3u8
+https://stream1.freetv.fun/jiang-su-wei-shi-86.ctv
+
+
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="地方卫视",江西卫视
+https://stream1.freetv.fun/jiang-xi-wei-shi-91.m3u8
+https://stream1.freetv.fun/jiang-xi-wei-shi-33.m3u8
+https://stream1.freetv.fun/jiang-xi-wei-shi-47.ctv
+https://stream1.freetv.fun/jiang-xi-wei-shi-10.ctv
+https://stream1.freetv.fun/jiang-xi-wei-shi-70.ctv
+https://stream1.freetv.fun/jiang-xi-wei-shi-100.m3u8
+https://stream1.freetv.fun/jiang-xi-wei-shi-90.m3u8
+http://115.153.254.81/PLTV/88888888/224/3221226656/46275837.smil/index.m3u8?fmt=ts2hls
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDQvaW5kZXgubTN1OA==
+http://222.85.198.92:8000/hls/44/index.m3u8
+
+
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="地方卫视",吉林卫视
+http://112.6.239.227:8207/hls/30/index.m3u8
+http://115.153.254.81/PLTV/88888888/224/3221226831/59814731.smil/index.m3u8?fmt=ts2hls
+
+
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="地方卫视",辽宁卫视
+http://dassby.qqff.top:99/live/辽宁卫视高清/index.m3u8
+http://115.153.254.81/PLTV/88888888/224/3221226649/46098370.smil/index.m3u8?fmt=ts2hls
+http://183.11.239.36:808/hls/47/index.m3u8
+https://www.yangshipin.cn/tv/home?pid=600002505
+http://113.57.93.165:9900/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+http://113.57.93.165:9900/tsfile/live/0121_1.m3u8
+
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png" group-title="地方卫视",内蒙古卫视
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+http://115.153.254.81/PLTV/88888888/224/3221225591/iptv7986.smil/index.m3u8?fmt=ts2hls
+http://58.17.116.69:9903/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.11.239.36:808/hls/60/index.m3u8
+http://139.196.214.238/rtp/239.45.1.238:5140
+
+
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="地方卫视",宁夏卫视
+http://115.153.254.81/PLTV/88888888/224/3221225747/iptv101619.smil/index.m3u8?fmt=ts2hls
+http://183.11.239.36:808/hls/106/index.m3u8
+http://139.196.214.238/rtp/239.45.1.213:5140
+http://120.238.94.10:9901/tsfile/live/1076_1.m3u8
+http://113.57.93.165:9900/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="地方卫视",青海卫视
+http://115.153.254.81/PLTV/88888888/224/3221225589/iptv7985.smil/index.m3u8?fmt=ts2hls
+http://183.11.239.36:808/hls/61/index.m3u8
+http://139.196.214.238/rtp/239.45.1.230:5140
+http://120.238.94.10:9901/tsfile/live/1073_1.m3u8
+
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="地方卫视",深圳卫视
+https://stream1.freetv.fun/shen-zhen-wei-shi-70.ctv
+https://stream1.freetv.fun/shen-zhen-wei-shi-84.ctv
+https://stream1.freetv.fun/shen-zhen-wei-shi-45.m3u8
+https://stream1.freetv.fun/shen-zhen-wei-shi-68.ctv
+http://115.153.254.81/PLTV/88888888/224/3221225764/10000100000000060000000000913503_0.smil/index.m3u8?fmt=ts2hls
+http://112.6.239.227:8207/hls/21/index.m3u8
+
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="地方卫视",陕西卫视
+http://183.11.239.36:808/hls/58/index.m3u8
+http://139.196.214.238/rtp/239.45.1.232:5140
+http://120.238.94.10:9901/tsfile/live/1070_1.m3u8
+
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="地方卫视",山东卫视
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDMvaW5kZXgubTN1OA==
+http://222.85.198.92:8000/hls/43/index.m3u8
+http://115.153.254.81/PLTV/88888888/224/3221225919/10000100000000060000000000811554_0.smil/index.m3u8?fmt=ts2hls
+http://112.6.239.227:8207/hls/15/index.m3u8
+
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="地方卫视",山西卫视
+http://58.17.116.69:9903/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.11.239.36:808/hls/59/index.m3u8
+http://139.196.214.238/rtp/239.45.1.229:5140
+http://120.238.94.10:9901/tsfile/live/1071_1.m3u8
+
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="地方卫视",四川卫视
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDcvaW5kZXgubTN1OA==
+http://222.85.198.92:8000/hls/46/index.m3u8
+http://222.85.198.92:8000/hls/47/index.m3u8
+http://115.153.254.81/PLTV/88888888/224/3221226693/51813384.smil/index.m3u8?fmt=ts2hls
+http://112.6.239.227:8207/hls/27/index.m3u8
+
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.cn/tv/三沙卫视.png" group-title="地方卫视",三沙卫视
+http://115.153.254.81/PLTV/88888888/224/3221226984/85722645.smil/index.m3u8?fmt=ts2hls
+http://139.196.214.238/rtp/239.45.1.82:5140
+
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="地方卫视",天津卫视
+http://115.153.254.81/PLTV/88888888/224/3221226652/46098366.smil/index.m3u8?fmt=ts2hls
+http://58.17.116.69:9903/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.11.239.36:808/hls/42/index.m3u8
+http://112.6.239.227:8207/hls/18/index.m3u8
+
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="地方卫视",厦门卫视
+http://112.6.239.227:8207/hls/17/index.m3u8
+
+
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="地方卫视",西藏卫视
+http://115.153.254.81/PLTV/88888888/224/3221225570/iptv101725.smil/index.m3u8?fmt=ts2hls
+http://183.11.239.36:808/hls/64/index.m3u8
+http://139.196.214.238/rtp/239.45.1.231:5140
+http://120.238.94.10:9901/tsfile/live/1077_1.m3u8
+
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="地方卫视",新疆卫视
+http://115.153.254.81/PLTV/88888888/224/3221225550/iptv61197.smil/index.m3u8?fmt=ts2hls
+http://58.17.116.69:9903/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.11.239.36:808/hls/65/index.m3u8
+http://139.196.214.238/rtp/239.45.1.116:5140
+
+
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="地方卫视",云南卫视
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMzUvaW5kZXgubTN1OA==
+http://222.85.198.92:8000/hls/35/index.m3u8
+http://115.153.254.81/PLTV/88888888/224/3221226937/72640386.smil/index.m3u8?fmt=ts2hls
 
 
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="地方卫视",浙江卫视
@@ -226,163 +451,30 @@ https://stream1.freetv.fun/zhe-jiang-wei-shi-44.ctv
 https://stream1.freetv.fun/zhe-jiang-wei-shi-33.ctv
 https://stream1.freetv.fun/zhe-jiang-wei-shi-103.m3u8
 https://stream1.freetv.fun/zhe-jiang-wei-shi-50.ctv
+http://115.153.254.81/PLTV/88888888/224/3221225768/10000100000000060000000000913518_0.smil/index.m3u8?fmt=ts2hls
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTgvaW5kZXgubTN1OA==
 http://222.85.198.92:8000/hls/18/index.m3u8
 
 
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="地方卫视",广东卫视
-http://115.153.254.81/PLTV/88888888/224/3221225957/10000100000000060000000000913519_0.smil/index.m3u8?fmt=ts2hls
-https://stream1.freetv.fun/yan-dong-wei-shi-87.m3u8
-https://stream1.freetv.fun/yan-dong-wei-shi-51.m3u8
-https://stream1.freetv.fun/yan-dong-wei-shi-83.ctv
-https://stream1.freetv.fun/yan-dong-wei-shi-50.ctv
-https://stream1.freetv.fun/yan-dong-wei-shi-18.ctv
-https://stream1.freetv.fun/dong-nan-wei-shi-38.m3u8
-https://stream1.freetv.fun/yan-dong-wei-shi-gao-qing-3.m3u8
-http://112.6.239.227:8207/hls/22/index.m3u8
 
 
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="地方卫视",深圳卫视
-https://stream1.freetv.fun/shen-zhen-wei-shi-70.ctv
-https://stream1.freetv.fun/shen-zhen-wei-shi-84.ctv
-https://stream1.freetv.fun/shen-zhen-wei-shi-45.m3u8
-https://stream1.freetv.fun/shen-zhen-wei-shi-68.ctv
-http://115.153.254.81/PLTV/88888888/224/3221225764/10000100000000060000000000913503_0.smil/index.m3u8?fmt=ts2hls
-http://112.6.239.227:8207/hls/21/index.m3u8
 
 
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="地方卫视",湖南卫视
-https://stream1.freetv.fun/hu-nan-wei-shi-gao-qing-1.m3u8
-http://115.153.254.81/PLTV/88888888/224/3221225697/iptv8039.smil/index.m3u8?fmt=ts2hls
-https://stream1.freetv.fun/hu-nan-wei-shi-14.ctv
-https://stream1.freetv.fun/hu-nan-wei-shi-6.ctv
-https://stream1.freetv.fun/hu-nan-wei-shi-75.m3u8
-https://stream1.freetv.fun/hu-nan-wei-shi-80.ctv
-https://stream1.freetv.fun/hu-nan-wei-shi-49.m3u8
-https://stream1.freetv.fun/hu-nan-wei-shi-87.m3u8
-https://stream1.freetv.fun/hu-nan-wei-shi-54.ctv
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTcvaW5kZXgubTN1OA==
-http://222.85.198.92:8000/hls/17/index.m3u8
 
 
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="地方卫视",江西卫视
-https://stream1.freetv.fun/jiang-xi-wei-shi-91.m3u8
-https://stream1.freetv.fun/jiang-xi-wei-shi-33.m3u8
-https://stream1.freetv.fun/jiang-xi-wei-shi-47.ctv
-https://stream1.freetv.fun/jiang-xi-wei-shi-10.ctv
-https://stream1.freetv.fun/jiang-xi-wei-shi-70.ctv
-https://stream1.freetv.fun/jiang-xi-wei-shi-100.m3u8
-https://stream1.freetv.fun/jiang-xi-wei-shi-90.m3u8
-http://115.153.254.81/PLTV/88888888/224/3221226656/46275837.smil/index.m3u8?fmt=ts2hls
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDQvaW5kZXgubTN1OA==
-http://222.85.198.92:8000/hls/44/index.m3u8
 
 
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="地方卫视",河北卫视
-https://stream1.freetv.fun/he-bei-wei-shi-48.ctv
-http://115.153.254.81/PLTV/88888888/224/3221226821/59781859.smil/index.m3u8?fmt=ts2hls
-http://222.85.198.92:8000/hls/41/index.m3u8
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDEvaW5kZXgubTN1OA==
-https://stream1.freetv.fun/he-bei-wei-shi-75.ctv
-https://stream1.freetv.fun/he-bei-wei-shi-38.m3u8
-https://stream1.freetv.fun/he-bei-wei-shi-89.ctv
-http://112.6.239.227:8207/hls/28/index.m3u8
 
 
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="地方卫视",云南卫视
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMzUvaW5kZXgubTN1OA==
-http://222.85.198.92:8000/hls/35/index.m3u8
-http://115.153.254.81/PLTV/88888888/224/3221226937/72640386.smil/index.m3u8?fmt=ts2hls
-
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="地方卫视",安徽卫视
-https://stream1.freetv.fun/jiang-xi-wei-shi-69.m3u8
-http://115.153.254.81/PLTV/88888888/224/3221226622/51176344.smil/index.m3u8?fmt=ts2hls
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMjAvaW5kZXgubTN1OA==
-http://222.85.198.92:8000/hls/20/index.m3u8
-http://112.6.239.227:8207/hls/19/index.m3u8
-
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="地方卫视",北京卫视
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMjkvaW5kZXgubTN1OA==
-http://222.85.198.92:8000/hls/29/index.m3u8
-http://115.153.254.81/PLTV/88888888/224/3221225546/iptv51912.smil/index.m3u8?fmt=ts2hls
-
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="地方卫视",贵州卫视
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTYvaW5kZXgubTN1OA==
-http://222.85.198.92:8000/hls/16/index.m3u8
-http://115.153.254.81/PLTV/88888888/224/3221226833/59814738.smil/index.m3u8?fmt=ts2hls
-
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="地方卫视",山东卫视
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDMvaW5kZXgubTN1OA==
-http://222.85.198.92:8000/hls/43/index.m3u8
-http://115.153.254.81/PLTV/88888888/224/3221225919/10000100000000060000000000811554_0.smil/index.m3u8?fmt=ts2hls
-http://112.6.239.227:8207/hls/15/index.m3u8
-
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="地方卫视",山西卫视
-http://112.6.239.227:8207/hls/26/index.m3u8
-
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="地方卫视",河南卫视
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMjcvaW5kZXgubTN1OA==
-http://222.85.198.92:8000/hls/27/index.m3u8
-http://115.153.254.81/PLTV/88888888/224/3221226842/59814787.smil/index.m3u8?fmt=ts2hls
-https://stream1.freetv.fun/yan-xi-wei-shi-64.m3u8
 
 
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="地方卫视",四川卫视
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDcvaW5kZXgubTN1OA==
-http://222.85.198.92:8000/hls/46/index.m3u8
-http://222.85.198.92:8000/hls/47/index.m3u8
-http://115.153.254.81/PLTV/88888888/224/3221226693/51813384.smil/index.m3u8?fmt=ts2hls
-http://112.6.239.227:8207/hls/27/index.m3u8
 
 
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="地方卫视",东南卫视
-https://stream1.freetv.fun/dong-nan-wei-shi-60.ctv
-https://stream1.freetv.fun/dong-nan-wei-shi-30.ctv
-https://stream1.freetv.fun/dong-nan-wei-shi-79.m3u8
-https://stream1.freetv.fun/dong-nan-wei-shi-63.ctv
-https://stream1.freetv.fun/dong-nan-wei-shi-14.ctv
-http://115.153.254.81/PLTV/88888888/224/3221226677/51176347.smil/index.m3u8?fmt=ts2hls
-http://112.6.239.227:8207/hls/23/index.m3u8
-
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="地方卫视",重庆卫视
-http://115.153.254.81/PLTV/88888888/224/3221226638/51813388.smil/index.m3u8?fmt=ts2hls
-
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="地方卫视",海南卫视
-http://222.85.198.92:8000/hls/42/index.m3u8
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDIvaW5kZXgubTN1OA==
-http://115.153.254.81/PLTV/88888888/224/3221226933/70442779.smil/index.m3u8?fmt=ts2hls
-http://112.6.239.227:8207/hls/24/index.m3u8
-
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="地方卫视",湖北卫视
-https://stream1.freetv.fun/he-bei-wei-shi-83.ctv
-http://115.153.254.81/PLTV/88888888/224/3221225827/10000100000000060000000000470332_2.smil/index.m3u8?fmt=ts2hls
-
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="地方卫视",黑龙江卫视
-https://stream1.freetv.fun/he-bei-wei-shi-87.m3u8
-http://115.153.254.81/PLTV/88888888/224/3221225584/10000100000000060000000000031778_0.smil/index.m3u8?fmt=ts2hls
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDUvaW5kZXgubTN1OA==
-http://222.85.198.92:8000/hls/45/index.m3u8
-
-#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="地方卫视",厦门卫视
-http://112.6.239.227:8207/hls/17/index.m3u8
-
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="地方卫视",天津卫视
-http://115.153.254.81/PLTV/88888888/224/3221226652/46098366.smil/index.m3u8?fmt=ts2hls
-http://112.6.239.227:8207/hls/18/index.m3u8
 
 
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="地方卫视",吉林卫视
-http://112.6.239.227:8207/hls/30/index.m3u8
-http://115.153.254.81/PLTV/88888888/224/3221226831/59814731.smil/index.m3u8?fmt=ts2hls
 
 
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="地方卫视",广西卫视
-http://115.153.254.81/PLTV/88888888/224/3221226954/71778425.smil/index.m3u8?fmt=ts2hls
-https://stream1.freetv.fun/yan-xi-wei-shi-3.ctv
-https://stream1.freetv.fun/yan-xi-wei-shi-79.ctv
-https://stream1.freetv.fun/yan-xi-wei-shi-23.ctv
-https://stream1.freetv.fun/yan-xi-wei-shi-59.m3u8
-http://112.6.239.227:8207/hls/32/index.m3u8
+
 
 
 #EXTINF:-1 tvg-name=浙江新闻 tvg-logo=https://live.fanmingming.com/tv/浙江新闻.png group-title="地方卫视",浙江新闻
@@ -819,6 +911,11 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 #EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2025
 https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
+
+
+#EXTINF:-1 tvg-name="经典剧场" group-title="经典剧场",笑傲江湖
+https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8
+
 
 
 
