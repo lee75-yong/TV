@@ -12,9 +12,6 @@ http://115.153.254.81/PLTV/88888888/224/3221225517/iptv7949.smil/index.m3u8?fmt=
 
 
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="IPTV",CCTV-2财经
-https://stream1.freetv.fun/cctv2-12.ctv
-https://stream1.freetv.fun/cctv2-20.ctv
-https://stream1.freetv.fun/cctv2-3.ctv
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMi9pbmRleC5tM3U4
 http://222.85.198.92:8000/hls/2/index.m3u8
 https://stream1.freetv.fun/cctv2-44.m3u8
@@ -914,6 +911,7 @@ https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/13339666728414330883
 
 #EXTINF:-1 tvg-name="经典剧场" group-title="经典剧场",笑傲江湖
 https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8
+
 
 
 
