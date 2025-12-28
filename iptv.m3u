@@ -558,11 +558,9 @@ https://stream1.freetv.fun/e6886dbde2158fbb51da8cd6db21e2bb5fb68f4e5aa4db51e3589
 
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="港澳台频道",凤凰资讯高清
 http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
-https://stream1.freetv.fun/feng-huang-zi-xun-25.m3u8
 https://stream1.freetv.fun/feng-huang-zi-xun-20.ctv
 https://stream1.freetv.fun/6cb73e3cad873d275ae7399762214060046e7b08b051b249f8bdb95ec3fea2fc.ctv
 https://stream1.freetv.fun/8207fefca4ec53194577b2ed278461db2f591ad800e535ba46d497749e2d7ee5.m3u8
-https://stream1.freetv.fun/feng-huang-zi-xun-2.m3u8
 https://stream1.freetv.fun/feng-huang-zi-xun-4.m3u8
 
 
@@ -916,6 +914,7 @@ https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/13339666728414330883
 
 #EXTINF:-1 tvg-name="经典剧场" group-title="经典剧场",笑傲江湖
 https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8
+
 
 
 
