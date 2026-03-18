@@ -6,18 +6,16 @@ http://222.85.198.92:8000/hls/40/index.m3u8
 http://222.85.198.92:8000/hls/1/index.m3u8
 http://183.11.239.36:808/hls/19/index.m3u8
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDAvaW5kZXgubTN1OA==
-https://stream1.freetv.fun/cctv1-28.m3u8
-https://stream1.freetv.fun/cctv1-79.ctv
 http://101.35.240.114:88/live.php?id=CCTV1
 
 
 
 
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="IPTV",CCTV-2财经
+http://107.150.60.122/live/cctv2hd.m3u8
+http://115.153.254.81/PLTV/88888888/224/3221226825/59814584.smil/index.m3u8?fmt=ts2hls
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMi9pbmRleC5tM3U4
 http://222.85.198.92:8000/hls/2/index.m3u8
-https://stream1.freetv.fun/cctv2-44.m3u8
-http://115.153.254.81/PLTV/88888888/224/3221226825/59814584.smil/index.m3u8?fmt=ts2hls
 http://222.169.85.8:9901/tsfile/live/0002_1.m3u8
 http://183.11.239.36:808/hls/20/index.m3u8
 
@@ -26,7 +24,6 @@ http://183.11.239.36:808/hls/20/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="IPTV",CCTV-3综艺
 http://222.85.198.92:8000/hls/3/index.m3u8
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMy9pbmRleC5tM3U4
-https://stream1.freetv.fun/cctv3-21.m3u8
 http://218.3.138.25:1111/tsfile/live/1002_1.m3u8
 http://223.241.247.214:9901/tsfile/live/0003_1.m3u8
 http://223.241.247.214:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -37,43 +34,37 @@ http://223.241.247.214:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid
 http://115.153.254.81/PLTV/88888888/224/3221226838/59814684.smil/index.m3u8?fmt=ts2hls
 http://222.85.198.92:8000/hls/4/index.m3u8
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNC9pbmRleC5tM3U4
-https://stream1.freetv.fun/cctv4-zhong-wen-guo-ji-1.ctv
 http://223.241.247.214:9901/tsfile/live/0004_1.m3u8
-https://stream1.freetv.fun/cctv4-33.ctv
+
 
 
 
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="IPTV",CCTV-5体育
+http://183.129.255.66:8480/hls/5/index.m3u8
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNS9pbmRleC5tM3U4
 http://222.85.198.92:8000/hls/5/index.m3u8
-https://stream1.freetv.fun/cctv-5gao-qing-2.m3u8
-https://stream1.freetv.fun/cctv5-21.ctv
-https://stream1.freetv.fun/cctv5-77.m3u8
 http://223.241.247.214:9901/tsfile/live/0005_1.m3u8
-https://stream1.freetv.fun/cctv5-28.ctv
-https://stream1.freetv.fun/cctv5-11.ctv
+
 
 
 
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="IPTV",CCTV-5体育赛事
 http://120.238.94.10:9901/tsfile/live/1023_1.m3u8
 http://61.136.172.236:9901/tsfile/live/0016_1.m3u8
-https://stream1.freetv.fun/cctv5-plus-48.ctv
+
 
 
 
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="IPTV",CCTV-6电影
+http://223.95.198.3:8000/hls/6/index.m3u8
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNi9pbmRleC5tM3U4
+http://183.129.255.66:8480/hls/7/index.m3u8
+http://156.238.248.80:8880/play/11.m3u8
 http://222.85.198.92:8000/hls/6/index.m3u8
-https://stream1.freetv.fun/cctv-6gao-qing-3.m3u8
-https://stream1.freetv.fun/cctv6-56.ctv
-https://stream1.freetv.fun/cctv6-27.m3u8
 http://124.116.183.146:9901/tsfile/live/0006_1.m3u8
-https://stream1.freetv.fun/cctv6-51.ctv
 
 
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="IPTV",CCTV-7国防军事
-https://stream1.freetv.fun/cctv7-59.ctv
 http://115.153.254.81/PLTV/88888888/224/3221226827/59814693.smil/index.m3u8?fmt=ts2hls
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNy9pbmRleC5tM3U4
 http://222.85.198.92:8000/hls/7/index.m3u8
@@ -83,15 +74,12 @@ http://112.6.239.227:8207/hls/8/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="IPTV",CCTV-8电视剧
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvOC9pbmRleC5tM3U4
 http://222.85.198.92:8000/hls/8/index.m3u8
-https://stream1.freetv.fun/cctv8-74.m3u8
 http://112.6.239.227:8207/hls/9/index.m3u8
 
 
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="IPTV",CCTV-9记录
 http://115.153.254.81/PLTV/88888888/224/3221226840/59814699.smil/index.m3u8?fmt=ts2hls
-https://stream1.freetv.fun/cctv-9gao-qing-1.m3u8
-https://stream1.freetv.fun/cctv9-43.m3u8
-https://stream1.freetv.fun/cctv9-37.ctv
+http://107.150.60.122/live/cctv9hd.m3u8
 http://112.6.239.227:8207/hls/10/index.m3u8
 
 
@@ -102,82 +90,52 @@ http://222.85.198.92:8000/hls/9/index.m3u8
 http://223.241.247.214:9901/tsfile/live/0010_1.m3u8
 http://223.241.247.214:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 http://59.39.89.130:60901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-https://stream1.freetv.fun/cctv10-43.m3u8
 http://124.116.183.146:9901/tsfile/live/0010_1.m3u8
 
 
 
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="IPTV",CCTV-11戏曲
-https://stream1.freetv.fun/cctv11-58.m3u8
 http://115.153.254.81/PLTV/88888888/224/3221226986/85722616.smil/index.m3u8?fmt=ts2hls
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTAvaW5kZXgubTN1OA==
 http://222.85.198.92:8000/hls/10/index.m3u8
-https://stream1.freetv.fun/cctv11-xi-qu-10.ctv
-https://stream1.freetv.fun/cctv11-39.ctv
 http://223.241.247.214:9901/tsfile/live/0011_1.m3u8
 http://223.241.247.214:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="IPTV",CCTV-12社会与法
-https://stream1.freetv.fun/cctv-12gao-qing-3.m3u8
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTEvaW5kZXgubTN1OA==
 http://222.85.198.92:8000/hls/11/index.m3u8
 http://115.153.254.81/PLTV/88888888/224/3221226829/59814709.smil/index.m3u8?fmt=ts2hls
-https://stream1.freetv.fun/cctv12hd-1.m3u8
 http://112.6.239.227:8207/hls/13/index.m3u8
 
 
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="IPTV",CCTV-13新闻
-https://stream1.freetv.fun/cctv13-xin-wen-19.m3u8
 http://115.153.254.81/PLTV/88888888/224/3221227037/87447722.smil/index.m3u8?fmt=ts2hls
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTIvaW5kZXgubTN1OA==
 http://222.85.198.92:8000/hls/12/index.m3u8
-https://stream1.freetv.fun/cctv13-29.m3u8
-https://stream1.freetv.fun/cctv13-1.ctv
-https://stream1.freetv.fun/cctv-13xin-wen-7.m3u8
-https://stream1.freetv.fun/cctv13-xin-wen-19.m3u8
-https://stream1.freetv.fun/cctv13-29.m3u8
-https://stream1.freetv.fun/cctv13-14.ctv
 http://112.6.239.227:8207/hls/14/index.m3u8
 
 
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="IPTV",CCTV-14少儿
-https://stream1.freetv.fun/cctv-14shao-er-6.m3u8
-https://stream1.freetv.fun/cctv-14gao-qing-1.m3u8
-https://stream1.freetv.fun/cctv14-shao-er-4.ctv
-https://stream1.freetv.fun/cctv14hd-1.m3u8
 http://115.153.254.81/PLTV/88888888/224/3221226634/51813368.smil/index.m3u8?fmt=ts2hls
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTMvaW5kZXgubTN1OA==
 http://222.85.198.92:8000/hls/15/index.m3u8
-https://stream1.freetv.fun/cctv14-50.ctv
-https://stream1.freetv.fun/cctv14-20.ctv
-https://stream1.freetv.fun/cctv14-81.ctv
+
 
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="IPTV",CCTV-15音乐
-https://stream1.freetv.fun/cctv15-83.ctv
-https://stream1.freetv.fun/cctv-15gao-qing-2.m3u8
-https://stream1.freetv.fun/cctv-15yin-le-3.m3u8
 http://115.153.254.81/PLTV/88888888/224/3221226988/85722541.smil/index.m3u8?fmt=ts2hls
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTQvaW5kZXgubTN1OA==
-https://stream1.freetv.fun/cctv15-44.ctv
-https://stream1.freetv.fun/cctv15-1.ctv
-https://stream1.freetv.fun/cctv15-65.ctv
+
 
 
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="IPTV",CCTV-16奥林匹克
 http://115.153.254.81/PLTV/88888888/224/3221227051/92603106.smil/index.m3u8?fmt=ts2hls
-https://stream1.freetv.fun/cctv16-27.ctv
-https://stream1.freetv.fun/cctv-16-1.ctv
-https://stream1.freetv.fun/cctv16-20.ctv
-https://stream1.freetv.fun/cctv16-6.ctv
 
 
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="IPTV",CCTV-17农业
 http://115.153.254.81/PLTV/88888888/224/3221226846/61397282.smil/index.m3u8?fmt=ts2hls
-https://stream1.freetv.fun/cctv17-61.ctv
-https://stream1.freetv.fun/cctv17-4.ctv
-https://stream1.freetv.fun/cctv17-49.ctv
+
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTUvaW5kZXgubTN1OA==
 
 
@@ -204,16 +162,6 @@ https://www.yangshipin.cn/tv/home?pid=600002531
 
 
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="地方卫视",东方卫视
-https://stream1.freetv.fun/dong-fang-wei-shi-85.ctv
-https://stream1.freetv.fun/dong-fang-wei-shi-92.ctv
-https://stream1.freetv.fun/dong-fang-wei-shi-34.m3u8
-https://stream1.freetv.fun/dong-fang-wei-shi-94.m3u8
-https://stream1.freetv.fun/dong-fang-wei-shi-42.ctv
-https://stream1.freetv.fun/dong-fang-wei-shi-108.ctv
-https://stream1.freetv.fun/dong-fang-wei-shi-89.ctv
-https://stream1.freetv.fun/dong-fang-wei-shi-35.ctv
-https://stream1.freetv.fun/dong-fang-wei-shi-39.m3u8
-https://stream1.freetv.fun/dong-fang-wei-shi-gao-qing-3.m3u8
 http://115.153.254.81/PLTV/88888888/224/3221225770/10000100000000060000000000913526_0.smil/index.m3u8?fmt=ts2hls
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMzgvaW5kZXgubTN1OA==
 http://222.85.198.92:8000/hls/38/index.m3u8
@@ -221,36 +169,19 @@ http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 
 
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="地方卫视",东南卫视
-https://stream1.freetv.fun/dong-nan-wei-shi-60.ctv
-https://stream1.freetv.fun/dong-nan-wei-shi-30.ctv
-https://stream1.freetv.fun/dong-nan-wei-shi-79.m3u8
-https://stream1.freetv.fun/dong-nan-wei-shi-63.ctv
-https://stream1.freetv.fun/dong-nan-wei-shi-14.ctv
 http://115.153.254.81/PLTV/88888888/224/3221226677/51176347.smil/index.m3u8?fmt=ts2hls
 http://112.6.239.227:8207/hls/23/index.m3u8
 
 
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="地方卫视",广东卫视
 http://115.153.254.81/PLTV/88888888/224/3221225957/10000100000000060000000000913519_0.smil/index.m3u8?fmt=ts2hls
-https://stream1.freetv.fun/yan-dong-wei-shi-87.m3u8
-https://stream1.freetv.fun/yan-dong-wei-shi-51.m3u8
-https://stream1.freetv.fun/yan-dong-wei-shi-83.ctv
-https://stream1.freetv.fun/yan-dong-wei-shi-50.ctv
-https://stream1.freetv.fun/yan-dong-wei-shi-18.ctv
-https://stream1.freetv.fun/dong-nan-wei-shi-38.m3u8
-https://stream1.freetv.fun/yan-dong-wei-shi-gao-qing-3.m3u8
 http://112.6.239.227:8207/hls/22/index.m3u8
 
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="地方卫视",广西卫视
 http://115.153.254.81/PLTV/88888888/224/3221226954/71778425.smil/index.m3u8?fmt=ts2hls
-https://stream1.freetv.fun/yan-xi-wei-shi-3.ctv
-https://stream1.freetv.fun/yan-xi-wei-shi-79.ctv
-https://stream1.freetv.fun/yan-xi-wei-shi-23.ctv
-https://stream1.freetv.fun/yan-xi-wei-shi-59.m3u8
 http://112.6.239.227:8207/hls/32/index.m3u8
 
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="地方卫视",甘肃卫视
-rtmp://livein.gstv.com.cn/49048r/y3nga4.flv
 http://115.153.254.81/PLTV/88888888/224/3221227039/87447727.smil/index.m3u8?fmt=ts2hls
 http://183.11.239.36:808/hls/119/index.m3u8
 http://139.196.214.238/rtp/239.45.1.234:5140
@@ -266,36 +197,23 @@ http://115.153.254.81/PLTV/88888888/224/3221226833/59814738.smil/index.m3u8?fmt=
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMjcvaW5kZXgubTN1OA==
 http://222.85.198.92:8000/hls/27/index.m3u8
 http://115.153.254.81/PLTV/88888888/224/3221226842/59814787.smil/index.m3u8?fmt=ts2hls
-https://stream1.freetv.fun/yan-xi-wei-shi-64.m3u8
+
 
 
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="地方卫视",河北卫视
-https://stream1.freetv.fun/he-bei-wei-shi-48.ctv
 http://115.153.254.81/PLTV/88888888/224/3221226821/59781859.smil/index.m3u8?fmt=ts2hls
 http://222.85.198.92:8000/hls/41/index.m3u8
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDEvaW5kZXgubTN1OA==
-https://stream1.freetv.fun/he-bei-wei-shi-75.ctv
-https://stream1.freetv.fun/he-bei-wei-shi-38.m3u8
-https://stream1.freetv.fun/he-bei-wei-shi-89.ctv
 http://112.6.239.227:8207/hls/28/index.m3u8
 
 
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="地方卫视",湖南卫视
-https://stream1.freetv.fun/hu-nan-wei-shi-gao-qing-1.m3u8
 http://115.153.254.81/PLTV/88888888/224/3221225697/iptv8039.smil/index.m3u8?fmt=ts2hls
-https://stream1.freetv.fun/hu-nan-wei-shi-14.ctv
-https://stream1.freetv.fun/hu-nan-wei-shi-6.ctv
-https://stream1.freetv.fun/hu-nan-wei-shi-75.m3u8
-https://stream1.freetv.fun/hu-nan-wei-shi-80.ctv
-https://stream1.freetv.fun/hu-nan-wei-shi-49.m3u8
-https://stream1.freetv.fun/hu-nan-wei-shi-87.m3u8
-https://stream1.freetv.fun/hu-nan-wei-shi-54.ctv
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTcvaW5kZXgubTN1OA==
 http://222.85.198.92:8000/hls/17/index.m3u8
 
 
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="地方卫视",湖北卫视
-https://stream1.freetv.fun/he-bei-wei-shi-83.ctv
 http://115.153.254.81/PLTV/88888888/224/3221225827/10000100000000060000000000470332_2.smil/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="地方卫视",海南卫视
@@ -305,31 +223,18 @@ http://115.153.254.81/PLTV/88888888/224/3221226933/70442779.smil/index.m3u8?fmt=
 http://112.6.239.227:8207/hls/24/index.m3u8
 
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="地方卫视",黑龙江卫视
-https://stream1.freetv.fun/he-bei-wei-shi-87.m3u8
 http://115.153.254.81/PLTV/88888888/224/3221225584/10000100000000060000000000031778_0.smil/index.m3u8?fmt=ts2hls
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDUvaW5kZXgubTN1OA==
 http://222.85.198.92:8000/hls/45/index.m3u8
 
 
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="地方卫视",江苏卫视
-https://stream1.freetv.fun/jiang-su-wei-shi-gao-qing-10.m3u8
-https://stream1.freetv.fun/jiang-su-wei-shi-56.ctv
-https://stream1.freetv.fun/jiang-su-wei-shi-92.ctv
-https://stream1.freetv.fun/jiang-su-wei-shi-15.ctv
 http://115.153.254.81/PLTV/88888888/224/3221225766/10000100000000060000000000913517_0.smil/index.m3u8?fmt=ts2hls
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTkvaW5kZXgubTN1OA==
 http://222.85.198.92:8000/hls/19/index.m3u8
-https://stream1.freetv.fun/jiang-su-wei-shi-86.ctv
 
 
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="地方卫视",江西卫视
-https://stream1.freetv.fun/jiang-xi-wei-shi-91.m3u8
-https://stream1.freetv.fun/jiang-xi-wei-shi-33.m3u8
-https://stream1.freetv.fun/jiang-xi-wei-shi-47.ctv
-https://stream1.freetv.fun/jiang-xi-wei-shi-10.ctv
-https://stream1.freetv.fun/jiang-xi-wei-shi-70.ctv
-https://stream1.freetv.fun/jiang-xi-wei-shi-100.m3u8
-https://stream1.freetv.fun/jiang-xi-wei-shi-90.m3u8
 http://115.153.254.81/PLTV/88888888/224/3221226656/46275837.smil/index.m3u8?fmt=ts2hls
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDQvaW5kZXgubTN1OA==
 http://222.85.198.92:8000/hls/44/index.m3u8
@@ -341,7 +246,6 @@ http://115.153.254.81/PLTV/88888888/224/3221226831/59814731.smil/index.m3u8?fmt=
 
 
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="地方卫视",辽宁卫视
-http://dassby.qqff.top:99/live/辽宁卫视高清/index.m3u8
 http://115.153.254.81/PLTV/88888888/224/3221226649/46098370.smil/index.m3u8?fmt=ts2hls
 http://183.11.239.36:808/hls/47/index.m3u8
 https://www.yangshipin.cn/tv/home?pid=600002505
@@ -349,7 +253,6 @@ http://113.57.93.165:9900/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 http://113.57.93.165:9900/tsfile/live/0121_1.m3u8
 
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png" group-title="地方卫视",内蒙古卫视
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 http://115.153.254.81/PLTV/88888888/224/3221225591/iptv7986.smil/index.m3u8?fmt=ts2hls
 http://58.17.116.69:9903/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 http://183.11.239.36:808/hls/60/index.m3u8
@@ -370,10 +273,6 @@ http://139.196.214.238/rtp/239.45.1.230:5140
 http://120.238.94.10:9901/tsfile/live/1073_1.m3u8
 
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="地方卫视",深圳卫视
-https://stream1.freetv.fun/shen-zhen-wei-shi-70.ctv
-https://stream1.freetv.fun/shen-zhen-wei-shi-84.ctv
-https://stream1.freetv.fun/shen-zhen-wei-shi-45.m3u8
-https://stream1.freetv.fun/shen-zhen-wei-shi-68.ctv
 http://115.153.254.81/PLTV/88888888/224/3221225764/10000100000000060000000000913503_0.smil/index.m3u8?fmt=ts2hls
 http://nn.7x9d.cn/深圳最新.php?id=szws4k
 http://112.6.239.227:8207/hls/21/index.m3u8
@@ -437,22 +336,6 @@ http://115.153.254.81/PLTV/88888888/224/3221226937/72640386.smil/index.m3u8?fmt=
 
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="地方卫视",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-https://stream1.freetv.fun/zhe-jiang-wei-shi-68.ctv
-https://stream1.freetv.fun/zhe-jiang-wei-shi-38.ctv
-https://stream1.freetv.fun/zhe-jiang-wei-shi-84.ctv
-https://stream1.freetv.fun/zhe-jiang-wei-shi-18.m3u8
-https://stream1.freetv.fun/zhe-jiang-wei-shi-98.ctv
-https://stream1.freetv.fun/zhe-jiang-wei-shi-56.m3u8
-https://stream1.freetv.fun/zhe-jiang-wei-shi-7.ctv
-https://stream1.freetv.fun/zhe-jiang-wei-shi-104.m3u8
-https://stream1.freetv.fun/zhe-jiang-wei-shi-30.m3u8
-https://stream1.freetv.fun/zhe-jiang-wei-shi-47.ctv
-https://stream1.freetv.fun/zhe-jiang-wei-shi-20.m3u8
-https://stream1.freetv.fun/zhe-jiang-wei-shi-39.m3u8
-https://stream1.freetv.fun/zhe-jiang-wei-shi-44.ctv
-https://stream1.freetv.fun/zhe-jiang-wei-shi-33.ctv
-https://stream1.freetv.fun/zhe-jiang-wei-shi-103.m3u8
-https://stream1.freetv.fun/zhe-jiang-wei-shi-50.ctv
 http://115.153.254.81/PLTV/88888888/224/3221225768/10000100000000060000000000913518_0.smil/index.m3u8?fmt=ts2hls
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTgvaW5kZXgubTN1OA==
 http://222.85.198.92:8000/hls/18/index.m3u8
@@ -686,15 +569,11 @@ http://www.wmviv.com/iptv/bc2t.php?id=ymkt
 
 #港澳台频道
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="港澳台频道",凤凰中文高清
-http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
 http://bxtv.3a.ink/api.php?id=fhzw
 http://r.jdshipin.com/cCCzW
 http://cdn6.163189.xyz/163189/fhzw
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-https://stream1.freetv.fun/feng-huang-zhong-wen-4.ctv
-https://stream1.freetv.fun/feng-huang-wei-shi-2.m3u8
-https://stream1.freetv.fun/e0c859ca201f3d03836f51e08e68b5d21c2f94462c3bc7686058368b63bb6deb.ctv
-https://stream1.freetv.fun/e6886dbde2158fbb51da8cd6db21e2bb5fb68f4e5aa4db51e3589f30c20a13d8.m3u8
+
 
 
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="港澳台频道",凤凰资讯高清
@@ -702,26 +581,17 @@ http://r.jdshipin.com/0Rp07
 http://cdn6.163189.xyz/163189/fhzx
 http://bxtv.3a.ink/api.php?id=fhzx
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-https://stream1.freetv.fun/feng-huang-zi-xun-20.ctv
-https://stream1.freetv.fun/6cb73e3cad873d275ae7399762214060046e7b08b051b249f8bdb95ec3fea2fc.ctv
-https://stream1.freetv.fun/8207fefca4ec53194577b2ed278461db2f591ad800e535ba46d497749e2d7ee5.m3u8
-https://stream1.freetv.fun/feng-huang-zi-xun-4.m3u8
 
 
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="港澳台频道",凤凰香港高清
-http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
 http://r.jdshipin.com/yDoTN
 http://cdn6.163189.xyz/163189/fhhk
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-https://stream1.freetv.fun/1d0cd71c154df6f70ed3dbf11b59922a12c9ad1ec4f8f1913fdcc17065a24041.ctv
-https://stream1.freetv.fun/ada32bf1237524edb183dcdef8285a2da3dd390b3d59be112c09d1a9c38c1077.m3u8
 http://bxtv.3a.ink/api.php?id=fhhk
 
 
 #EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Phoenix4.png" group-title="港澳台频道",凤凰电影
 http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-https://stream1.freetv.fun/feng-huang-dian-ying-3.m3u8
-https://stream1.freetv.fun/eb5c379a2d045382ce7f8ffa78e5b7d184a3c44fffe574d72e3fab54a7d696f7.m3u8
 
 
 #EXTINF:-1 tvg-id="星空国际" tvg-name="星空国际" group-title="港澳台频道",星空国际
@@ -1070,197 +940,6 @@ http://112.27.235.94:8000/hls/48/index.m3u8
 http://112.27.235.94:8000/hls/49/index.m3u8
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.cn/tv/重温经典.png" group-title="备用频道",重温经典
 http://112.27.235.94:8000/hls/50/index.m3u8
-
-
-
-
-
-
-#电影频道
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",倩女幽魂妖魔道
-http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",倩女幽魂人间道
-http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",倩女幽魂道道道
-http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",人在囧途
-https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",人在囧途之泰囧
-https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",人在囧途之港囧
-https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",拆弹专家1
-https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",拆弹专家2
-https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",寒战
-https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",我不是药神
-https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",让子弹飞
-https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",龙门飞甲
-http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",笑傲江湖
-https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",阿凡达
-https://yylunbo.ottiptv.cc/yy/1382735577
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",珍珠港
-https://yylunbo.ottiptv.cc/yy/1354936234
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",王牌大贱谍
-https://yylunbo.ottiptv.cc/yy/1382735556
-
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",武侠电影
-http://www.douzhicloud.site:35455/huya/11342427
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",经典港片
-https://yylunbo.ottiptv.cc/yy/1353454489
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",动作电影
-https://yylunbo.ottiptv.cc/yy/1382736804
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",抗日电影
-https://yylunbo.ottiptv.cc/yy/1382749907
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",电影功夫片
-http://live.metshop.top/huya/11352941?cdn=alicdn
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",电影战争片
-http://live.metshop.top/huya/21059574?cdn=alicdn
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",科幻电影
-https://yylunbo.ottiptv.cc/yy/1382745114
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",重温经典电影
-https://yylunbo.ottiptv.cc/yy/1382793140
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",林正英经典玄幻电影
-https://yylunbo.ottiptv.cc/yy/1462895099
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",梅艳芳主演喜剧电影
-https://yylunbo.ottiptv.cc/yy/1382735627
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",刘德华电影
-http://live.metshop.top/huya/11342424?cdn=alicdn
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",末日系列外国电影合集
-https://yylunbo.ottiptv.cc/yy/1354889019
-
-
-
-
-
-
-#电视剧频道
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/延禧攻略.png" group-title="电视剧频道",延禧攻略
-http://www.douzhicloud.site:35455/huya/26355864
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/琅琊榜.png" group-title="电视剧频道",琅琊榜
-#http://zby.xjqxz.top/lyb/live.m3u8
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/新三国.png" group-title="电视剧频道",新三国
-http://www.douzhicloud.site:35455/huya/11352944
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/新水浒.png" group-title="电视剧频道",新水浒传
-http://www.douzhicloud.site:35455/huya/11342384
-#http://zby.xjqxz.top/shz/live.m3u8
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/新三国.png" group-title="电视剧频道",新三国（斗鱼）
-http://www.douzhicloud.site:35455/douyu/5908256
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天1.png" group-title="电视剧频道",少年包青天第一部
-http://www.douzhicloud.site:35455/yy/1356043677
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天3.png" group-title="电视剧频道",少年包青天第三部
-http://www.douzhicloud.site:35455/yy/1382736814
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰1.png" group-title="电视剧频道",神探狄仁杰第一部
-http://www.douzhicloud.site:35455/huya/11352958
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰2.png" group-title="电视剧频道",神探狄仁杰第二部
-http://www.douzhicloud.site:35455/douyu/6027991
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰3.png" group-title="电视剧频道",神探狄仁杰第三部
-http://www.douzhicloud.site:35455/huya/11342425
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/爱情公寓.png" group-title="电视剧频道",爱情公寓
-http://www.douzhicloud.site:35455/huya/11336726
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/亮剑.png" group-title="电视剧频道",亮剑
-http://www.douzhicloud.site:35455/huya/30080238
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/雪豹.png" group-title="电视剧频道",雪豹
-http://www.douzhicloud.site:35455/huya/29580970
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/特种兵之火凤凰.png" group-title="电视剧频道",特种兵之火凤凰
-http://www.douzhicloud.site:35455/huya/29982636
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/士兵突击.png" group-title="电视剧频道",士兵突击
-http://www.douzhicloud.site:35455/huya/11342430
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/笑傲江湖.png" group-title="电视剧频道",笑傲江湖
-http://www.douzhicloud.site:35455/huya/26355790
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/神雕侠侣.png" group-title="电视剧频道",神雕侠侣
-http://www.douzhicloud.site:35455/huya/11352964
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/天龙八部.png" group-title="电视剧频道",天龙八部
-http://www.douzhicloud.site:35455/huya/20985816
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/倚天屠龙记苏有朋.png" group-title="电视剧频道",倚天屠龙记
-http://www.douzhicloud.site:35455/huya/11342403
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/铁齿铜牙纪晓岚.png" group-title="电视剧频道",铁齿铜牙纪晓岚
-http://www.douzhicloud.site:35455/huya/11342396
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/康熙王朝.png" group-title="电视剧频道",康熙王朝
-http://www.douzhicloud.site:35455/huya/11352940
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/陈情令.png" group-title="电视剧频道",陈情令
-http://www.douzhicloud.site:35455/huya/29465862
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/庆余年.png" group-title="电视剧频道",庆余年
-http://www.douzhicloud.site:35455/huya/11352960
-#http://live.iill.top/huya.php?id=11352960
-#http://dns.yiandrive.com:15907/huya/11352960
-#http://live.metshop.top/huya/11352960
-#http://www.52sw.top:678/play/huya.php?id=11352960
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/精绝古城.png" group-title="电视剧频道",鬼吹灯之精绝古城
-http://www.douzhicloud.site:35455/huya/11352871
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/怒晴湘西.png" group-title="电视剧频道",鬼吹灯之怒晴湘西
-http://www.douzhicloud.site:35455/huya/11602075
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/龙岭迷窟.png" group-title="电视剧频道",鬼吹灯之龙岭迷窟
-http://www.douzhicloud.site:35455/huya/29465863
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/云南虫谷.png" group-title="电视剧频道",鬼吹灯之云南虫谷
-http://www.douzhicloud.site:35455/huya/11352898
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/伪装者.png" group-title="电视剧频道",伪装者
-http://www.douzhicloud.site:35455/yy/1354936244
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/西游记后传.png" group-title="电视剧频道",西游记后传
-http://www.douzhicloud.site:35455/yy/1353392400
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/隋唐英雄传.png" group-title="电视剧频道",隋唐英雄传
-http://www.douzhicloud.site:35455/yy/1352475619
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/仙剑奇侠传.png" group-title="电视剧频道",仙剑奇侠传
-http://www.douzhicloud.site:35455/yy/1382749903
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/西游记续集.png" group-title="电视剧频道",西游记续集
-http://www.douzhicloud.site:35455/douyu/3113309
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/利刃出鞘.png" group-title="电视剧频道",我是特种兵之利刃出鞘
-http://www.douzhicloud.site:35455/yy/37999586
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/狂飙.png" group-title="电视剧频道",狂飙
-http://www.douzhicloud.site:35455/yy/1355142167
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/三国演义.png" group-title="电视剧频道", 三国演义
-http://www.douzhicloud.site:35455/huya/11602081
-#https://lunbo.freetv.top/yy/1354930932
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",西游记
-http://www.douzhicloud.site:35455/huya/26355861
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/新白娘子传奇.png" group-title="电视剧频道", 新白娘子传奇
-http://www.douzhicloud.site:35455/yy/1354490667
-#http://luobo.bkpcp.top/yy/1354490667
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/乌龙闯情关.png" group-title="电视剧频道",乌龙闯情关
-http://www.douzhicloud.site:35455/huya/26355767
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",柳舟计
-http://www.douzhicloud.site:35455/huya/23860039
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",与凤行
-http://www.douzhicloud.site:35455/huya/26355866
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",大秦赋
-http://www.douzhicloud.site:35455/huya/23903130
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",永夜星河
-http://www.douzhicloud.site:35455/huya/23734169
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",流水迢迢
-http://www.douzhicloud.site:35455/huya/23865036
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",唐诡之西行
-http://www.douzhicloud.site:35455/huya/26355763
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",玫瑰的故事
-http://www.douzhicloud.site:35455/huya/23865142
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",梦中的那片海
-http://www.douzhicloud.site:35455/huya/26355765
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",知否知否
-http://www.douzhicloud.site:35455/yy/21881901
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",父母爱情
-http://www.douzhicloud.site:35455/yy/1354926650
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",欢乐颂
-http://www.douzhicloud.site:35455/yy/1382735624
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",康熙微服私访记
-http://www.douzhicloud.site:35455/huya/11342418
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",如懿传
-http://www.douzhicloud.site:35455/huya/29465868
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",芈月传
-http://www.douzhicloud.site:35455/huya/11352975
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",搜狐剧场
-https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
-
-
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",猫和老鼠
-http://www.douzhicloud.site:35455/huya/11352879
-#EXTINF:-1 tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧频道",灌篮高手
-http://www.douzhicloud.site:35455/yy/1382735626
-
 
 
 #EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚1983
